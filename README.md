@@ -4,6 +4,6 @@ Instructions for the Penn Quantum Computing Club's education challenge in collab
 
 ## You can find the following files in this repository:
 
-- [Instructions for the Challenge](ChallengeInstructions.ipynb)  
+- [Instructions for the challenge](ChallengeInstructions.ipynb)  
 - [Sample Submission Template](Sample_Submission.ipynb)  
 - [Some tutorials and resources for the challenge](TutorialsAndResources.ipynb)  
